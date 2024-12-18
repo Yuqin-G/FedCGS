@@ -1,6 +1,7 @@
 # FedCGS
-code for Capture-Global-Feature-Statistics-for-One-Shot-Federated-Learning
+The implementation of Capture-Global-Feature-Statistics-for-One-Shot-Federated-Learning
 
+## Usage
 ```python
 python main_fedcgs.py
 ```
