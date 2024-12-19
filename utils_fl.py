@@ -267,7 +267,7 @@ def test(model, test_loader, device="cuda:0"):
     return g_acc
 
 
-def eval_lda(model, Aj, S_inv, N, Nj, test_loader, device="cuda:0"):
+def eval(model, Aj, S_inv, N, Nj, test_loader, device="cuda:0"):
     W = Aj @ torch.tensor(S_inv)
     b = torch.zeros(Aj.size(0))
     for i in range(Aj.size(0)):
