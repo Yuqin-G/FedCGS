@@ -1,5 +1,5 @@
-# Capture Global Feature Statistics for One Shot Federated Learning
-This repository is the official implementation of the AAAI 2025 paper "Capture Global Feature Statistics for One Shot Federated Learning"
+# Capture Global Feature Statistics for One-Shot Federated Learning
+This repository is the official implementation of the AAAI 2025 paper "Capture Global Feature Statistics for One-Shot Federated Learning"
 
 ## Usage
 Our FedCGS:
